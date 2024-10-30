@@ -1,0 +1,26 @@
+a.sm_button {
+	padding: 4px;
+	display: block;
+	padding-left: 10px;
+	background-repeat: no-repeat;
+	background-position: 5px 50%;
+	text-decoration: none;
+	border: none;
+}
+
+.form-table {
+	clear: inherit;
+}
+
+.ipq_pages_redirect {
+	width:70%;
+}
+
+.form-table th {
+	width:250px;
+}
+
+.settings_logo {
+	width:100%;
+	padding-top: 15px;
+}
